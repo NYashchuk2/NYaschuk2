@@ -1,0 +1,14 @@
+2 steps:
+
+1)
+a. Dowload forge for 1.12.2 (the latest one)
+https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html
+b. run it, for client
+c. create a new installation for forge in yor minecraft launcher
+2)
+a. Download the mods folder
+b. go to C:\Users\%User%\AppData\Roaming\.minecraft (if you cant see AppData it's because it's 	a hidden file - at the top press view and check hidden folders, or google how to view 	them if it doesn't work)
+c. once there go to mods folder (or create one if you don't have it)
+d. go to/create folder 1.12.2
+e. drop all the mods from the downloaded folder into there
+
